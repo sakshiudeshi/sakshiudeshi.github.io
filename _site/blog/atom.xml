@@ -4,13 +4,22 @@
  <title>Sakshi's Blog</title>
  <link href="http://sakshiudeshi.github.io/blog/atom.xml" rel="self"/>
  <link href="http://sakshiudeshi.github.io/blog"/>
- <updated>2016-11-17T00:25:27+05:30</updated>
+ <updated>2016-11-17T00:36:17+05:30</updated>
  <id>http://sakshiudeshi.github.io/blog</id>
  <author>
    <name>Sakshi Udeshi</name>
    <email>sakshiudeshi@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>How to go about the GRE</title>
+   <link href="http://sakshiudeshi.github.io/blog/2016/11/17/how-to-GRE"/>
+   <updated>2016-11-17T00:00:00+05:30</updated>
+   <id>http://sakshiudeshi.github.io//blog/2016/11/17/how-to-GRE</id>
+   <content type="html">&lt;p&gt;I scored 333 (170Q + 163V) on the GRE General Test. I’m thinking of putting my prep strategy on the internet. Stay tuned for the full blogpost. Coming soon!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Sakshi Udeshi, Launches Site</title>
