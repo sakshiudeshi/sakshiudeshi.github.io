@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Sakshi's Blog</title>
+ <link href="http://sakshiudeshi.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://sakshiudeshi.github.io/blog"/>
+ <updated>2016-11-16T23:56:20+05:30</updated>
+ <id>http://sakshiudeshi.github.io/blog</id>
+ <author>
+   <name>Sakshi Udeshi</name>
+   <email>sakshiudeshi@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Sakshi Udeshi, Launches Site</title>
+   <link href="http://sakshiudeshi.github.io/blog/2016/11/09/sakshi-udeshi-site-launched"/>
+   <updated>2016-11-09T00:00:00+05:30</updated>
+   <id>http://sakshiudeshi.github.io//blog/2016/11/09/sakshi-udeshi-site-launched</id>
+   <content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
