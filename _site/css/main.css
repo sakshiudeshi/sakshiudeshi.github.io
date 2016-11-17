@@ -20,7 +20,7 @@ a {
 	/* ...and now for the proper property */
 	transition:color .5s ease-out, background .5s ease-in;
 }
-a:hover {text-decoration: none; color:#333;}
+a:hover {text-decoration: none; color:rgb(25, 124, 244);}
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; font-family: 'Open Sans', sans-serif; font-weight: lighter;}
 
@@ -36,6 +36,7 @@ p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; font-family: 'Open Sa
 	flex-wrap: nowrap;              /* default value; can be omitted */
 	justify-content: space-between;
 	font-weight: 400;}
+
 
 .designation { 
 	padding-left: 0.5cm; 
@@ -63,7 +64,13 @@ h4 { font-size: 1.9em; }
 h5 { font-size: 1.7em; }
 h6 { font-size: 1.6em; }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Open Sans', sans-serif; padding: 0px; list-style: none; font-weight: lighter; }
+nav ul, footer ul { 
+	font-size: 1em; 
+	font-family: 'Open Sans', sans-serif; 
+	padding: 0px; 
+	list-style: none; 
+	font-weight: lighter; }
+
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
@@ -139,4 +146,4 @@ ul.points li:before{
 	/* ...and now for the proper property */
 	transition:color .5s ease-out, background .5s ease-in;
 }
-.resume a:hover {text-decoration: none; color:#999;}
+.resume a:hover {text-decoration: none; color:rgb(25, 124, 244);}
