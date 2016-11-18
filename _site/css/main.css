@@ -22,12 +22,12 @@ a {
 }
 a:hover {text-decoration: none; color:rgb(25, 124, 244);}
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; font-family: 'Open Sans', sans-serif; font-weight: lighter;}
+p, ul { text-align: justify; font-size: 1.5em; line-height: 1.4em; color: #333; font-family: 'Open Sans', sans-serif; font-weight: lighter;}
 
 .point{
-	padding-bottom: 0.3cm; 
+	padding-bottom: 0.2cm; 
 	padding-left: 0.5cm; 
-	font-size: 1em; l
+	font-size: 1.1em; l
 	ine-height: 1em; 
 	color: #333; 
 	font-family: 'Open Sans', sans-serif; 
@@ -35,28 +35,29 @@ p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; font-family: 'Open Sa
 	flex-direction: row;            /* default value; can be omitted */
 	flex-wrap: nowrap;              /* default value; can be omitted */
 	justify-content: space-between;
-	font-weight: 400;}
+	font-weight: 300;}
 
 
 .designation { 
 	padding-left: 0.5cm; 
-	padding-bottom: 0.3cm;
+	padding-bottom: 0.2cm;
 	padding-right: 1cm;
 	font-size: 0.9em; 
 	line-height: 1em; 
 	color: #333; 
 	font-family: 'Open Sans', sans-serif;
-	font-weight: 400;}
+	font-weight: 100;}
 
 .header {
-	padding-bottom: 0.3cm; 
+	padding-bottom: 0.2cm; 
 	font-size: 1.5em; 
 	line-height: 1em; 
 	color: #333; 
 	font-family: 'Open Sans', sans-serif; 
-	font-weight: 600;}
+	font-weight: 300;}
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', sans-serif; font-weight: lighter;}
+h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', sans-serif; font-weight: lighter; 
+	text-align: justify;}
 h1 { font-size: 3em;  line-height: 1em;}
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
@@ -81,27 +82,26 @@ ul.posts li { list-style: none; display: block; padding-bottom: 0.4cm;}
 
 /* Resume */
 .resume { margin: 0px 0px 60px; font-family: 'Open Sans', sans-serif;}
-.resume h1 { font-size: 3em; font-family: 'Open Sans', sans-serif;}
+.resume h1 { font-size: 3em; font-family: 'Open Sans', sans-serif; font-weight: 300;}
 .resume h2 { font-size: 2em; font-family: 'Open Sans', sans-serif;}
 .resume address, .resume .download { font-family: 'Open Sans', sans-serif;}
 .resume address, .resume p { font-size: 1.2em; }
 .resume .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 ul.points{
-	padding-right: 1cm;
 	font-size: 0.9em; 
 	line-height: 1.3em; 
 	font-weight: lighter;
 	color: #333; 
 	font-family: 'Open Sans', sans-serif;
 	text-align: justify;
-	font-weight: 300;
+	font-weight: 100;
 }
 
 ul.points li {
 	padding-left: 1.4cm; 
 	list-style-type: none;
-	padding-bottom: 0.4cm;
+	padding-bottom: 0.2cm;
 	display:list-item;
 	overflow: visible;
     position: relative;
@@ -114,7 +114,7 @@ ul.points li:before{
 }
 
 
-.dl .download { float: right; font-size: .8em; text-transform: uppercase; }
+.dl .download { float: right; font-size: .8em; text-transform: uppercase; font-size: 1.5em;}
 
 .dl a {
 	text-decoration: none;
