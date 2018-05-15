@@ -37,12 +37,25 @@ p, ul { text-align: justify; font-size: 1.5em; line-height: 1.4em; color: #333; 
 	justify-content: space-between;
 	font-weight: 300;}
 
+.smallpoint{
+	padding-bottom: 0.2cm; 
+	padding-left: 0.5cm; 
+	font-size: 0.9em; l
+	ine-height: 1em; 
+	color: #333; 
+	font-family: 'Open Sans', sans-serif; 
+	display: flex;                  /* establish flex container */
+	flex-direction: row;            /* default value; can be omitted */
+	flex-wrap: nowrap;              /* default value; can be omitted */
+	justify-content: space-between;
+	font-weight: 300;}
+
 
 .designation { 
 	padding-left: 0.5cm; 
 	padding-bottom: 0.2cm;
 	padding-right: 1cm;
-	font-size: 0.9em; 
+	font-size: 0.85em; 
 	line-height: 1em; 
 	color: #333; 
 	font-family: 'Open Sans', sans-serif;
