@@ -1,36 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    <title>{{ page.title }}</title>
-    
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
-
   <body>
-    <nav>
-<ul>
-<li><a href="/">home</a></li>
-<!-- <li><a href="/about">About</a></li> -->
-<li><a href="/resume">résumé</a></li>
-<li><a href="/blog">blog</a></li>
-</ulé
-    </nav>
-<div class="container">
 
-  {{ content }}
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-</div>
-  
-  <footer>
-   <ul>
-   <li><a href="mailto:sakshiudeshi@gmail.com" target="_blank">email</a></li>
-   <li><a href="https://github.com/sakshiudeshi" target="_blank">github</a></li>
-   <li><a href="https://www.facebook.com/sakshiudeshi" target="_blank">facebook</a></li>
-   <li><a href="https://in.linkedin.com/in/sakshiudeshi" target="_blank">linkedin</a></li>
-   </ul>
-  </footer>
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
-
 </html>
