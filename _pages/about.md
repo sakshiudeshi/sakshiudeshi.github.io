@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the Singapore University of Technology and Design.
+I am a ~~first~~ ~~second~~ third year PhD student at the Singapore University of Technology and Design.
 
 <!-- A data-driven personal website
 ======
