@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a ~~first~~ ~~second~~ third year PhD student at the Singapore University of Technology and Design.
+Sakshi is a ~~first~~ ~~second~~ third-year PhD student at the Singapore University of Technology and Design. His main area of focus is 
+broadly software infrastructure for machine learning which includes, but is not limited to Testing, Fairness, Security amongst others. 
+He is supported by the prestigious [President’s Graduate Fellowship](https://www.sutd.edu.sg/Admissions/Graduate/Scholarships). 
+Previously, Sakshi worked at [Housing.com](https://housing.com/in/buy/real-estate-mumbai) and 
+[@Walmart Labs](https://www.walmartlabs.com/) and was 
+an undergraduate at the [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/). 
+
+
 
 <!-- A data-driven personal website
 ======
