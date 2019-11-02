@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! My name is Sakshi Udeshi."
+title: "Welcome to Sakshi Udeshi's webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
