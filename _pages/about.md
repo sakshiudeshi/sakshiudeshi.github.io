@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Sakshi Udeshi's webpage"
+title: "Sakshi Udeshi - PhD Student @ SUTD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
