@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Sakshi is a fourth-year PhD student at the Singapore University of Technology and Design. His research focus is 
-broadly software infrastructure for machine learning which includes, but is not limited to testing, fairness, security amongst others. 
+Sakshi is a fifth-year PhD student at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/). His research focus is 
+broadly software infrastructure for machine learning which includes, but is not limited to testing, fairness, and security amongst others. He is advised by [Assistant Professor Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/)
 
 He is supported by the prestigious [President’s Graduate Fellowship](https://www.sutd.edu.sg/Admissions/Graduate/Scholarships). 
-Previously, Sakshi worked at [Housing.com](https://housing.com/in/buy/real-estate-mumbai) and 
-[@Walmart Labs](https://www.walmartlabs.com/) and was 
-an undergraduate at the [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/). 
+Previously, Sakshi was an undergraduate at the [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/goa/). 
 
-
+<!-- worked at [Housing.com](https://housing.com/in/buy/real-estate-mumbai) and 
+[@Walmart Labs](https://www.walmartlabs.com/) and was  -->
 
 <!-- A data-driven personal website
 ======

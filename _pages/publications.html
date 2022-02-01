@@ -1,13 +1,11 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<p>
-    <a href="{{ site.base }}/bib/pubs.bib">Download BibTeX.</a>
-</p>
+<script type="text/javascript"
+        src="{{ base_path }}/assets/js/pcooksey/bibtex.js">
+</script>
 
 <style>
 #bibtex_errors { margin-top:10px; color: red;}
@@ -16,24 +14,24 @@ author_profile: true
 
 <div class="bibtex_structure">
   <div class="sections bibtextypekey">
-    <div class="section @misc">
-      <h2>Preprints</h2>
-      <div class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </div>
-    </div>
-    <div class="section @inproceedings">
-      <h2>International Conferences</h2>
-      <div class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </div>
-    </div>
     <div class="section @article">
         <h2>Journals</h2>
         <div class="sort year" extra="DESC number">
           <div class="templates"></div>
         </div>
+      </div>
+    <div class="section @inproceedings">
+      <h2>International Conference &amp; Tool Papers</h2>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
     </div>
+    <div class="section @misc">
+        <h2>Pre-Prints</h2>
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
     <div class="section @phdthesis">
       <h2>Thesis</h2>
       <div class="sort year" extra="DESC number">
@@ -44,7 +42,7 @@ author_profile: true
 </div>
 
 
-<bibtex src="{{ base_path }}/bib/pubs.bib" />
+<bibtex src="{{ base_path }}/pubs.bib" />
 
 <div id="bibtex_display">
   <div class="if bibtex_template" style="display: none;">
@@ -83,5 +81,3 @@ author_profile: true
           </ul>
     </div>
 </div>
-
-
