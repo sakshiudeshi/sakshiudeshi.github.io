@@ -14,6 +14,8 @@ broadly software infrastructure for machine learning which includes, but is not 
 He was supported by the prestigious [President’s Graduate Fellowship](https://www.sutd.edu.sg/Admissions/Graduate/Scholarships). 
 Previously, Sakshi was also an undergraduate at the [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/goa/). 
 
+**Note:** This webpage is no longer actively maintained and the information found here may not be up to date. 
+
 <!-- worked at [Housing.com](https://housing.com/in/buy/real-estate-mumbai) and 
 [@Walmart Labs](https://www.walmartlabs.com/) and was  -->
 
