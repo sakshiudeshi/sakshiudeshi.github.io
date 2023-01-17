@@ -10,7 +10,7 @@ redirect_from:
 <!-- https://drive.google.com/file/d/1hmgWTq-olqa1CIoA-2ja6XkGKI6ncXn_/preview -->
 
 
-<iframe src="https://drive.google.com/file/d/1hmgWTq-olqa1CIoA-2ja6XkGKI6ncXn_/preview" 
+<iframe src="https://drive.google.com/file/d/1tb0osY948yhDsidyGXRTf8a9YmprdDPV/view?usp=share_link" 
 style="position: absolute;  width: 60%; height: 60%; border: none"></iframe>
 
 
