@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Sakshi is the CTO of [Lumeros AI](https://www.lumeros.ai/). He is a PhD graduate from the [Singapore University of Technology and Design](https://www.sutd.edu.sg/). His research focus is 
-broadly software infrastructure for machine learning which includes, but is not limited to testing, fairness, and security amongst others. He was advised by [Assistant Professor Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/)
+broadly software infrastructure for machine learning which includes, but is not limited to testing, fairness, and security amongst others. He was advised by [Associate Professor Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/)
 
 He was supported by the prestigious [President’s Graduate Fellowship](https://www.sutd.edu.sg/Admissions/Graduate/Scholarships). 
 Previously, Sakshi was also an undergraduate at the [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/goa/). 
